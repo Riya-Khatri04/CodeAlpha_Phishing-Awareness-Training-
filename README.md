@@ -9,6 +9,8 @@ Created by: Riya Khatri – Code Alpha Intern
 📎  [View the Presentation
 PDF]
 (https://github.com/Riya-Khatri04/CodeAlpha_Phishing-Awareness-Training-/blob/main/CodeAlphaInternPresentation.pdf)
+[ Download Presentation PDF]
+(https://github.com/Riya-Khatri04/CodeAlpha_Phishing-Awareness-Training/raw/main/CodeAlphaInternPresentation.pdf)
 
 Topic Covered:
 - What is Phishing?
