@@ -1,4 +1,4 @@
-# CodeAlpha_Phishing-Awareness-Training-
+
 # Phishing Awareness Internship Training Program
 
 This repository contains the presentation on Phishing Awareness created as part of my internship at Code Alpha.
