@@ -3,10 +3,11 @@
 
 This repository contains the presentation on Phishing Awareness created as part of my internship at Code Alpha.
 
-📘 Title: Phishing Awareness Internship Training  
-👩‍💻 Created by: Riya Khatri – Code Alpha Intern  
-📄 Format: PDF   
-📅Topic Covered:
+Title: Phishing Awareness Internship Training  
+Created by: Riya Khatri – Code Alpha Intern  
+ Format: PDF  
+📎 [Click here to view the presentation PDF](./CodeAlphaInternPresentation.pdf)
+Topic Covered:
 - What is Phishing?
 - Social Engineering Tactics
 - Real-world Examples (Twitter, Google Docs scams)
