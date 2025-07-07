@@ -7,7 +7,8 @@ Title: Phishing Awareness Internship Training
 Created by: Riya Khatri – Code Alpha Intern  
  Format: PDF  
 📎  [View the Presentation
-PDF](https://github.com/Riya-Khatri04/CodeAlpha_Phishing-Awareness-Training-/blob/main/CodeAlphaInternPresentation.pdf)
+PDF]
+(https://github.com/Riya-Khatri04/CodeAlpha_Phishing-Awareness-Training-/blob/main/CodeAlphaInternPresentation.pdf)
 
 Topic Covered:
 - What is Phishing?
